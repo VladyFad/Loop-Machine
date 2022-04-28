@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Loop-machine/static/css/main.5375e45c.css",
+    "main.js": "/Loop-machine/static/js/main.d78361eb.js",
+    "static/js/787.028cacc8.chunk.js": "/Loop-machine/static/js/787.028cacc8.chunk.js",
+    "static/media/bvoc.mp3": "/Loop-machine/static/media/bvoc.5ffa9906c5972f1fb03c.mp3",
+    "static/media/drums.mp3": "/Loop-machine/static/media/drums.f0332952662d2e1f5d15.mp3",
+    "static/media/hehevoc.mp3": "/Loop-machine/static/media/hehevoc.fd659059c1d55320658f.mp3",
+    "static/media/highvoc.mp3": "/Loop-machine/static/media/highvoc.f09f6e03383b234370d0.mp3",
+    "static/media/jibrish.mp3": "/Loop-machine/static/media/jibrish.d23f0b604ef55163d7e6.mp3",
+    "static/media/lead1.mp3": "/Loop-machine/static/media/lead1.f8658c330b3d07661550.mp3",
+    "static/media/tambourine.mp3": "/Loop-machine/static/media/tambourine.2ceb47bfdbea6e81aae9.mp3",
+    "static/media/uuhovoc.mp3": "/Loop-machine/static/media/uuhovoc.bc87006a5f29b4cfa918.mp3",
+    "static/media/backgeound.jpg": "/Loop-machine/static/media/backgeound.a4306c6a020512c799e1.jpg",
+    "index.html": "/Loop-machine/index.html",
+    "main.5375e45c.css.map": "/Loop-machine/static/css/main.5375e45c.css.map",
+    "main.d78361eb.js.map": "/Loop-machine/static/js/main.d78361eb.js.map",
+    "787.028cacc8.chunk.js.map": "/Loop-machine/static/js/787.028cacc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5375e45c.css",
+    "static/js/main.d78361eb.js"
+  ]
+}
