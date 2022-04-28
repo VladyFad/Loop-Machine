@@ -1,0 +1,51 @@
+ .player__title {
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: -1px;
+    text-align: left;
+    margin-bottom: 18px;
+  }
+  
+  .player__container {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .player__range {
+    opacity: 1;
+    position: absolute;
+    top: 0;
+    -webkit-appearance: none;
+    width: 50%;
+    left: 32%;
+    height: 220px;
+    background: transparent;
+  }
+  
+  .player__range_inactive {
+    opacity: 0.5;
+    transition: 0.2s ease;
+  }
+   
+  .player__range::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 200px;
+    width: 1px;
+    background: white;
+    cursor: pointer;
+    top: 100%;
+  }
+  
+  .player__range::-moz-range-thumb {
+    box-shadow: 0px 0px 0px white, 0px 0px 0px white;
+    border: 1px solid white;
+    height: 350px;
+    width: 1px;
+    background: white;
+    color: white;
+    cursor: pointer;
+  }
+
+  
+
+  

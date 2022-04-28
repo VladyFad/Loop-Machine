@@ -1,0 +1,14 @@
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: #1d1d1d27;
+    max-width: 300px;
+    margin: 0 auto;
+    margin-top: 15px;
+    color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
