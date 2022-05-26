@@ -10,3 +10,4 @@ A white line shows the current time of the playback and you can drag it back and
 
 The bottom senction is Buttons component that you can play,pause,stop or loop all the channels together, there is a timer to show the current time as well.
 
+Project deployment: https://vladyfad.github.io/Loop-machine/
